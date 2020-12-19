@@ -1,0 +1,10 @@
+//C++ Hello Word!
+//c and c++
+#include<iostream>
+using namespace std
+int main()
+{
+	cout<<"Hell World!"<<endl;
+	system("pause");
+
+}
