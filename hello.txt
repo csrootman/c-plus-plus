@@ -1,0 +1,2 @@
+C++ Hello Word!
+c and c++
